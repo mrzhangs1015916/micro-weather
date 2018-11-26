@@ -1,0 +1,10 @@
+   
+swagger:
+  #扫描的包路径(扫描此包及子包)
+  scan-package: xyz.yzblog.weather.controller
+  #是否激活 swagger true or false
+  is:
+    enable: true   
+          
+    
+  
